@@ -6,7 +6,7 @@
 
 I'm a passionate software developer with a keen interest in web development, data science, and open-source contributions. I love to explore new technologies and continuously improve my skills.
 
-- 🔭 I’m currently working on [Project Name](https://github.com/pramanik25/project-name)
+- 🔭 I’m currently working on [Project Name](https://github.com/pramanik25/Deepfake-video-model)
 - 🌱 I’m currently learning **Machine Learning and Cloud Computing**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **JavaScript, Python, and Data Analysis**
