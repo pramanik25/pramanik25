@@ -10,7 +10,7 @@ I'm a passionate software developer with a keen interest in web development, dat
 - 🌱 I’m currently learning **Machine Learning and Cloud Computing**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **JavaScript, Python, and Data Analysis**
-- 📫 How to reach me: [Email](mailto:your-email@example.com)
+- 📫 How to reach me: [Email](mailto:vikashpramanikofficial@gmail.com)
 - ⚡ Fun fact: I love solving puzzles and playing chess.
 
 ## Skills
